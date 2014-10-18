@@ -4,4 +4,4 @@ Node.js
 
 start:
 
-copy config/*example.js to config/*.js
+copy config/\*example.js to config/\*.js
